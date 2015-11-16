@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\classes-e811fd66584942b118104e24a40cec5e0b0c297d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-6310a09675039f4e727c5021f6f19ddb6775e5c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcel\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\20041127.091804\17b1ff59f0916ac7bcff704e712415a0d49d468d\commons-codec-20041127.091804.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17b1ff59f0916ac7bcff704e712415a0d49d468d">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\commons-codec-20041127.091804-af2bf6939a9365fde1f890f39da510cd9207d6f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-6bd5e8068206c6f22fc49f8c78898dee44b96e55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\classes-8f8d0c57c0f4ed9e944a7a316f9a047ae21a27e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\classes-ab1645fbfeb01111841b5fa769a93ba2f342265e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c29e97743f62249b158fb2a1c4bb61713d3a1f16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Marcel\Documents\GitHub\FyberOffers\app\build\intermediates\pre-dexed\debug\classes-a77c1ebfa7d2623f29124e6bf8a5fd569e2424ca.jar" />
+    </item>
+
+</items>

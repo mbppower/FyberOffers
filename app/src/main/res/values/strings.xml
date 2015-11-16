@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Offers</string>
+    <string name="action_settings">API Configuration</string>
+
+    <string name="label_api_key">Enter your API KEY</string>
+    <string name="label_app_id">Enter your APP ID</string>
+    <string name="label_uid">Enter the UID</string>
+    <string name="label_pub0">Enter the PUB0</string>
+    <string name="label_fetch_offers">Fetch offers</string>
+    <string name="label_api_configuration">API Configuration</string>
+    <string name="label_load_defaults">Load Defaults</string>
+    <string name="action_offers">Offers</string>
+    <string name="no_offers_found">No offers were found</string>
+    <string name="label_payout">Payout</string>
+
+</resources>
